@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  🎓 MPhil in Data Science and Analytics @ HKUST (Guangzhou), advised by Prof. Jiaheng Wei<br>
-  📕 Trustworthy AI · Multimodal Agent Systems · Embodied Intelligence<br>
+  🎓 MPhil in Data Science and Analytics @ HKUST (Guangzhou)<br>
+  📕 Trustworthy AI · Multimodal Agent System · Embodied Intelligence<br>
   📧 Email: <a href="mailto:yhuang767@connect.hkust-gz.edu.cn">yhuang767[@]connect.hkust-gz.edu.cn</a>
 </p>
 
@@ -22,7 +22,7 @@ I am expected to graduate from HKUST(GZ) in May 2027 and actively looking for Ph
 
 ## Research Interests
 
-My current interests include **trustworthy AI** and **multimodal agent systems**. Recently, I have also been exploring **embodied intelligence**. Welcome to reach out for potential discussions and research collaborations.
+My current interests include **trustworthy AI** and **multimodal agent system**. Recently, I have also been exploring **embodied intelligence**. Welcome to reach out for potential discussions and research collaborations.
 
 
 <p align="center">
