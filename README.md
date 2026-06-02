@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Yini+Huang;MPhil+@+HKUST(GZ);Trustworthy+AI+%7C+Multimodal+Agent" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Yini+Huang;MPhil+@+HKUST(GZ)" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -12,7 +12,6 @@
   📧 Email: <a href="mailto:yhuang767@connect.hkust-gz.edu.cn">yhuang767[@]connect.hkust-gz.edu.cn</a>
 </p>
 
----
 
 ## About Me
 
@@ -20,13 +19,11 @@ My name is Yini Huang (黄依妮). I am an MPhil student in Data Science and Ana
 
 I am expected to graduate from HKUST(GZ) in May 2027 and actively looking for PhD openings for Fall 2027.
 
----
 
 ## Research Interests
 
 My current interests include **trustworthy AI** and **multimodal agent systems**. Recently, I have also been exploring **embodied intelligence**. Welcome to reach out for potential discussions and research collaborations.
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
