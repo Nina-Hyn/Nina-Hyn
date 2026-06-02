@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://nina-hyn.github.io/"><strong>🌐 Explore my full homepage →</strong></a>
+  <a href="https://nina-hyn.github.io/"><strong>🌐 Explore My Full Homepage →</strong></a>
 </p>
 
 <p align="center">
