@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🎓 MPhil in Data Science and Analytics @ HKUST (Guangzhou)<br>
+  🎓 MPhil in Data Science and Analytics @ HKUST(GZ)<br>
   📕 Trustworthy AI · Multimodal Agent System · Embodied Intelligence<br>
   📧 Email: <a href="mailto:yhuang767@connect.hkust-gz.edu.cn">yhuang767[@]connect.hkust-gz.edu.cn</a>
 </p>
