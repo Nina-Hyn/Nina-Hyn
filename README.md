@@ -22,7 +22,7 @@ I am expected to graduate from HKUST(GZ) in May 2027 and actively looking for Ph
 
 ## Research Interests
 
-My current interests include **trustworthy AI** and **multimodal agent system**. Recently, I have also been exploring **embodied intelligence**. Welcome to reach out for potential discussions and research collaborations.
+My current interests include **Trustworthy AI** and **Multimodal Agent System**. Recently, I have also been exploring **Embodied-AI**. Welcome to reach out for potential discussions and research collaborations.
 
 
 <p align="center">
